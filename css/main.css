@@ -63,16 +63,24 @@ footer {
     background-color: #e3e3e3;
   }
 
+.col-3 {
+    height: 320px;
+    float: left;
+}
+
   #column-1 {
     background-color: #cc99ff;
+    width: 50%;
   }
 
   #column-2 {
     background-color: #7300e6;
+    width: 25%;
   }
 
   #column-3 {
     background-color: #1a0033;
+    width: 25%;
   }
 
   footer {
@@ -87,21 +95,27 @@ footer {
   header {
     background-color: #e3e3e3;
   }
+  
+.col-3 {
+  height: 320px;
+  float: left;
+}
 
   #column-1 {
     background-color: #ff99cc;
+    width: 33.3333%;
   }
 
   #column-2 {
     background-color: #ff1a8c;
+    width: 33.3333%;
   }
 
   #column-3 {
     background-color: #800040;
+    width: 33.3333%;
   }
 
   footer {
     background-color: #e3e3e3;
   }
-   
-}
